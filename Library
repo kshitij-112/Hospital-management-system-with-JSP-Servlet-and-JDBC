@@ -1,1 +1,0 @@
-# Hospital-management-system-with-JSP-Servlet-and-JDBC
